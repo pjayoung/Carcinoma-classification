@@ -74,7 +74,7 @@
 
 
 - 코드
-  [협업용 구글 드라이브]([https://dacon.io/competitions/official/236355/data](https://drive.google.com/drive/folders/1GZr-4RotBfdL9jT_EPk5HktPYO_ZRvDL?usp=sharing) 
+  [협업용 구글 드라이브](https://drive.google.com/drive/folders/1GZr-4RotBfdL9jT_EPk5HktPYO_ZRvDL?usp=sharing) 
 
 
 - 데이터
