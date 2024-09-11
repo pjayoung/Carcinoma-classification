@@ -74,10 +74,8 @@
 
 
 - 코드
-  https://drive.google.com/drive/folders/1GZr-4RotBfdL9jT_EPk5HktPYO_ZRvDL?usp=sharing
+  [협업용 구글 드라이브]([https://dacon.io/competitions/official/236355/data](https://drive.google.com/drive/folders/1GZr-4RotBfdL9jT_EPk5HktPYO_ZRvDL?usp=sharing) 
 
 
 - 데이터
-
-
-[Dacon : 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문](https://dacon.io/competitions/official/236355/data)
+  [Dacon : 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문](https://dacon.io/competitions/official/236355/data)
